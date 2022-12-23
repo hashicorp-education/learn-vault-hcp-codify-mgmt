@@ -1,0 +1,11 @@
+*tfstate*
+*.zip
+*.tar.gz
+*.rar
+*.plan
+**.git
+logs/**
+.terraform/**
+**/.terraform/**
+.terraform.lock.hcl
+~
